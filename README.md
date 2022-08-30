@@ -1,4 +1,4 @@
-# DEFI NOTES
+# Decentralized Finance Learnings
 This repository contains code relevant to decentralized finance concepts.
 
 ## Usage Instructions
